@@ -2,12 +2,12 @@
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>org.clojars.pntblnk</groupId>
+  <groupId>org.clojars.akiel</groupId>
   <artifactId>clj-ldap</artifactId>
   <version>0.0.9</version>
   <name>clj-ldap</name>
   <description>Clojure ldap client (development fork of alienscience's clj-ldap).</description>
-  <url>https://github.com/pauldorman/clj-ldap</url>
+  <url>https://github.com/alexanderkiel/clj-ldap</url>
   <licenses>
     <license>
       <name>Eclipse Public License - v 1.0</name>
@@ -17,10 +17,10 @@
     </license>
   </licenses>
   <scm>
-    <connection>scm:git:git://github.com/pauldorman/clj-ldap.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/pauldorman/clj-ldap.git</developerConnection>
+    <connection>scm:git:git://github.com/alexanderkiel/clj-ldap.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/alexanderkiel/clj-ldap.git</developerConnection>
     <tag>072fd1be4d8d96a806759bedcccd0da1cae39e86</tag>
-    <url>https://github.com/pauldorman/clj-ldap</url>
+    <url>https://github.com/alexanderkiel/clj-ldap</url>
   </scm>
   <build>
     <sourceDirectory>src</sourceDirectory>
